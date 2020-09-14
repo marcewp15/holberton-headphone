@@ -212,6 +212,12 @@
       }
 
       /* Responsive Background and Menu */
+      @media all and (max-width: 767px) {
+        .header-logo {
+          padding-left: 3%;
+        }
+      }
+
       @media all and (max-width: 480px) {
 
         .header {
