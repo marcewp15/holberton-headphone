@@ -213,6 +213,11 @@
 
       /* Responsive Background and Menu */
       @media all and (max-width: 767px) {
+        .header {
+          background-position: 40% 50%;
+          background-size: cover;
+        }
+
         .header-logo {
           padding-left: 3%;
         }
